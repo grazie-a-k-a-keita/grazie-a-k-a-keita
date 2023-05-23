@@ -4,10 +4,12 @@
 - C#
 - JavaScript
 - TypeScript
+- Node.js
 - AWS
 - Firebase
 ## I'm currently learning 📕
 - Go
+- Python
 - Swift UI
 
 # Stats 🦖

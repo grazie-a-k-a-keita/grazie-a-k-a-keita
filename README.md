@@ -3,6 +3,7 @@
 - Java
 - C#
 - JavaScript
+- TypeScript
 - AWS
 - Firebase
 ## I'm currently learning 📕

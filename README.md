@@ -4,7 +4,7 @@
 - C#
 - JavaScript
 - TypeScript
-- Node.js (React, Vue)
+- Node (React, Vue)
 - AWS
 - Firebase
 ## I'm currently learning 📕

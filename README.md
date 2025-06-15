@@ -12,6 +12,7 @@
 
 ### I'm currently learning 📕
 
+- PHP
 - Go
 - Python
 - Swift UI

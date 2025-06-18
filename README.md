@@ -4,11 +4,11 @@
 
 - Java
 - C#
-- JavaScript
 - TypeScript
-- Node (React, Vue)
+- Node.js
 - AWS
 - Firebase
+- React, Next.js
 
 ### I'm currently learning 📕
 
